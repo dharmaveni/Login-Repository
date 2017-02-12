@@ -1,2 +1,2 @@
 # Login-Registration
-    Chnages made to test the commit.
+    Changes made to test the commit.
